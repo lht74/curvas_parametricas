@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Parametric Curves",
+  "description": "An interactive web application to visualize and animate hypotrochoid parametric curves. Users can adjust parameters using sliders and see the beautiful geometric shapes in real-time.",
+  "requestFramePermissions": []
+}
